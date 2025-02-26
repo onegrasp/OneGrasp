@@ -10,7 +10,7 @@
             <div class="text-light">
               <ul>
                 <li class="d-none">Call Us: +91 9246272747</li>
-                <li>Email: test@gmail.com</li>
+                <li>Mail: support@onegrasp.com</li>
               </ul>
             </div>
           </div>

@@ -316,8 +316,8 @@
               <button data-filter=".filter5" class="">B.Com</button>
               <button data-filter=".filter6" class="">BBA</button>
               <button data-filter=".filter7" class="">BCA</button>
-              <button data-filter=".filter8" class="">BA</button>
-              <button data-filter=".filter9" class="">MA</button>
+              <!--<button data-filter=".filter8" class="">BA</button> -->
+              <!--<button data-filter=".filter9" class="">MA</button> -->
             </div>
           </div>
         </div>
@@ -410,8 +410,8 @@
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
                     </li>
@@ -441,8 +441,8 @@
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
                     </li>
@@ -473,8 +473,8 @@
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
                     </li>
@@ -505,8 +505,8 @@
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
                     </li>
@@ -540,8 +540,8 @@
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
                     </li>
@@ -571,8 +571,8 @@
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
                     </li>
@@ -603,10 +603,299 @@
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li>
                       <i class="icofont-clock-time"></i> Req. Graduation (Min.
+                      50%)
+                    </li>
+                  </ul>
+                </div>
+                <div class="hreobannerarea__button__2 in">
+                  <!-- <a class="default__button" href="#">View Program</a> -->
+                  <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        
+        <!-- BCom Specializations -->
+         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item filter5">
+            <div class="gridarea__wraper">
+              <div class="gridarea__img">
+                <a href="#"><img loading="lazy" src="@/assets/img/grid/Finance.webp" alt="grid" /></a>
+                <div class="gridarea__small__button">
+                  <div class="grid__badge">International Finance</div>
+                </div>
+                <div class="gridarea__small__icon">
+                  <a href="#"><i class="icofont-heart-alt"></i></a>
+                </div>
+              </div>
+              <div class="gridarea__content">
+                <div class="gridarea__heading">
+                  <h3><a href="#">International Finance</a></h3>
+                </div>
+                <div class="gridarea__list">
+                  <ul>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan available</li>
+                    <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
+                      50%)
+                    </li>
+                  </ul>
+                </div>     
+                <div class="hreobannerarea__button__2 in">
+                  <!-- <a class="default__button" href="#">View Program</a> -->
+                  <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item filter5">
+            <div class="gridarea__wraper">
+              <div class="gridarea__img">
+                <a href="#"><img loading="lazy" src="@/assets/img/grid/Finance.webp" alt="grid" /></a>
+                <div class="gridarea__small__button">
+                  <div class="grid__badge">Accounting & Finance</div>
+                </div>
+                <div class="gridarea__small__icon">
+                  <a href="#"><i class="icofont-heart-alt"></i></a>
+                </div>
+              </div>
+              <div class="gridarea__content">
+                <div class="gridarea__heading">
+                  <h3><a href="#">Accounting & Finance</a></h3>
+                </div>
+                <div class="gridarea__list">
+                  <ul>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan available</li>
+                    <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
+                      50%)
+                    </li>
+                  </ul>
+                </div>
+                <div class="hreobannerarea__button__2 in">
+                  <!-- <a class="default__button" href="#">View Program</a> -->
+                  <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item filter5">
+            <div class="gridarea__wraper">
+              <div class="gridarea__img">
+                <a href="#"><img loading="lazy" src="@/assets/img/grid/Finance.webp" alt="grid" /></a>
+                <div class="gridarea__small__button">
+                  <div class="grid__badge">Corporate Accounting</div>
+                </div>
+                <div class="gridarea__small__icon">
+                  <a href="#"><i class="icofont-heart-alt"></i></a>
+                </div>
+              </div>
+              <div class="gridarea__content">
+                <div class="gridarea__heading">
+                  <h3><a href="#">Corporate Accounting</a></h3>
+                </div>
+                <div class="gridarea__list">
+                  <ul>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan available</li>
+                    <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
+                      50%)
+                    </li>
+                  </ul>
+                </div>
+                <div class="hreobannerarea__button__2 in">
+                  <!-- <a class="default__button" href="#">View Program</a> -->
+                  <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        <!-- BBA Specializations -->
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item filter6">
+            <div class="gridarea__wraper">
+              <div class="gridarea__img">
+                <a href="#"><img loading="lazy" src="@/assets/img/grid/Finance.webp" alt="grid" /></a>
+                <div class="gridarea__small__button">
+                  <div class="grid__badge">Digital Marketing</div>
+                </div>
+                <div class="gridarea__small__icon">
+                  <a href="#"><i class="icofont-heart-alt"></i></a>
+                </div>
+              </div>
+              <div class="gridarea__content">
+                <div class="gridarea__heading">
+                  <h3><a href="#">Digital Marketing</a></h3>
+                </div>
+                <div class="gridarea__list">
+                  <ul>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan available</li>
+                    <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
+                      50%)
+                    </li>
+                  </ul>
+                </div>     
+                <div class="hreobannerarea__button__2 in">
+                  <!-- <a class="default__button" href="#">View Program</a> -->
+                  <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item filter6">
+            <div class="gridarea__wraper">
+              <div class="gridarea__img">
+                <a href="#"><img loading="lazy" src="@/assets/img/grid/Finance.webp" alt="grid" /></a>
+                <div class="gridarea__small__button">
+                  <div class="grid__badge">Engineering and Project Management</div>
+                </div>
+                <div class="gridarea__small__icon">
+                  <a href="#"><i class="icofont-heart-alt"></i></a>
+                </div>
+              </div>
+              <div class="gridarea__content">
+                <div class="gridarea__heading">
+                  <h3><a href="#">Engineering and Project Management</a></h3>
+                </div>
+                <div class="gridarea__list">
+                  <ul>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan available</li>
+                    <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
+                      50%)
+                    </li>
+                  </ul>
+                </div>
+                <div class="hreobannerarea__button__2 in">
+                  <!-- <a class="default__button" href="#">View Program</a> -->
+                  <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item filter6">
+            <div class="gridarea__wraper">
+              <div class="gridarea__img">
+                <a href="#"><img loading="lazy" src="@/assets/img/grid/Finance.webp" alt="grid" /></a>
+                <div class="gridarea__small__button">
+                  <div class="grid__badge">Logistics and Supply Chain Management</div>
+                </div>
+                <div class="gridarea__small__icon">
+                  <a href="#"><i class="icofont-heart-alt"></i></a>
+                </div>
+              </div>
+              <div class="gridarea__content">
+                <div class="gridarea__heading">
+                  <h3><a href="#">Logistics and Supply Chain Manag.</a></h3>
+                </div>
+                <div class="gridarea__list">
+                  <ul>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan available</li>
+                    <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
+                      50%)
+                    </li>
+                  </ul>
+                </div>
+                <div class="hreobannerarea__button__2 in">
+                  <!-- <a class="default__button" href="#">View Program</a> -->
+                  <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        <!-- BCA Specializations -->
+          <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item filter7">
+            <div class="gridarea__wraper">
+              <div class="gridarea__img">
+                <a href="#"><img loading="lazy" src="@/assets/img/grid/Finance.webp" alt="grid" /></a>
+                <div class="gridarea__small__button">
+                  <div class="grid__badge">AI</div>
+                </div>
+                <div class="gridarea__small__icon">
+                  <a href="#"><i class="icofont-heart-alt"></i></a>
+                </div>
+              </div>
+              <div class="gridarea__content">
+                <div class="gridarea__heading">
+                  <h3><a href="#">Artificial Intelligence</a></h3>
+                </div>
+                <div class="gridarea__list">
+                  <ul>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan available</li>
+                    <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
+                      50%)
+                    </li>
+                  </ul>
+                </div>
+                <div class="hreobannerarea__button__2 in">
+                  <!-- <a class="default__button" href="#">View Program</a> -->
+                  <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item filter7">
+            <div class="gridarea__wraper">
+              <div class="gridarea__img">
+                <a href="#"><img loading="lazy" src="@/assets/img/grid/Finance.webp" alt="grid" /></a>
+                <div class="gridarea__small__button">
+                  <div class="grid__badge">AI</div>
+                </div>
+                <div class="gridarea__small__icon">
+                  <a href="#"><i class="icofont-heart-alt"></i></a>
+                </div>
+              </div>
+              <div class="gridarea__content">
+                <div class="gridarea__heading">
+                  <h3><a href="#">Artificial Intelligence</a></h3>
+                </div>
+                <div class="gridarea__list">
+                  <ul>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan available</li>
+                    <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
+                      50%)
+                    </li>
+                  </ul>
+                </div>
+                <div class="hreobannerarea__button__2 in">
+                  <!-- <a class="default__button" href="#">View Program</a> -->
+                  <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 grid-item filter7">
+            <div class="gridarea__wraper">
+              <div class="gridarea__img">
+                <a href="#"><img loading="lazy" src="@/assets/img/grid/Finance.webp" alt="grid" /></a>
+                <div class="gridarea__small__button">
+                  <div class="grid__badge">AI</div>
+                </div>
+                <div class="gridarea__small__icon">
+                  <a href="#"><i class="icofont-heart-alt"></i></a>
+                </div>
+              </div>
+              <div class="gridarea__content">
+                <div class="gridarea__heading">
+                  <h3><a href="#">Artificial Intelligence</a></h3>
+                </div>
+                <div class="gridarea__list">
+                  <ul>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan available</li>
+                    <li><i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
                     </li>
                   </ul>
@@ -663,13 +952,13 @@
               <div class="gridarea__content">
                 <div class="gridarea__heading">
                   <h3>
-                    <a href="#">Foundation course to under stand about softwere</a>
+                    <a href="#">Foundation course to understand about software</a>
                   </h3>
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li>
                       <i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
@@ -702,8 +991,8 @@
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li>
                       <i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
@@ -736,8 +1025,8 @@
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li>
                       <i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
@@ -770,8 +1059,8 @@
                 </div>
                 <div class="gridarea__list">
                   <ul>
-                    <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                    <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                    <li><i class="icofont-book-alt"></i> 2 Years</li>
+                    <li><i class="icofont-clock-time"></i> Loan Available</li>
                     <li>
                       <i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
@@ -818,23 +1107,23 @@
                             </div> -->
                   </div>
                   <div class="gridarea__content">
-                    <div class="gridarea__heading">
+                    <!--<div class="gridarea__heading">
                       <h3>
-                        <a href="#">Foundation course to under stand about softwere</a>
+                        <a href="#">Foundation course to understand about software</a>
                       </h3>
-                    </div>
-                    <div class="gridarea__list">
+                    </div>-->
+                    <!--<div class="gridarea__list">
                       <ul>
-                        <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                        <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                        <li><i class="icofont-book-alt"></i> 2 Years</li>
+                        <li><i class="icofont-clock-time"></i> Loan Available</li>
                         <li>
                       <i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
-                    </li>
+                       </li>
                       </ul>
-                    </div>
+                    </div>-->
                     <div class="hreobannerarea__button__2">
-                      <a class="default_button_view" href="./university.php#projects__one">View Program</a>
+                      <a class="default_button_view" href="./university.php#projects__one">View Courses</a>
                       <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
                     </div>
                   </div>
@@ -852,23 +1141,23 @@
                             </div> -->
                   </div>
                   <div class="gridarea__content">
-                    <div class="gridarea__heading">
+                    <!--<div class="gridarea__heading">
                       <h3>
                         <a href="#">Foundation course to under stand about softwere</a>
                       </h3>
                     </div>
                     <div class="gridarea__list">
                       <ul>
-                        <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                        <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                        <li><i class="icofont-book-alt"></i> 2 Years</li>
+                        <li><i class="icofont-clock-time"></i> Loan Available</li>
                         <li>
                       <i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
                     </li>
                       </ul>
-                    </div>
+                    </div>-->
                     <div class="hreobannerarea__button__2">
-                      <a class="default_button_view" href="./university.php#projects__two">View Program</a>
+                      <a class="default_button_view" href="./university.php#projects__two">View Courses</a>
                       <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
                     </div>
                   </div>
@@ -886,23 +1175,23 @@
                                 </div> -->
                   </div>
                   <div class="gridarea__content">
-                    <div class="gridarea__heading">
+                    <!--<div class="gridarea__heading">
                       <h3>
                         <a href="#">Foundation course to under stand about softwere</a>
                       </h3>
                     </div>
                     <div class="gridarea__list">
                       <ul>
-                        <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                        <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                        <li><i class="icofont-book-alt"></i> 2 Years</li>
+                        <li><i class="icofont-clock-time"></i> Loan Available</li>
                         <li>
                       <i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
                     </li>
                       </ul>
-                    </div>
+                    </div>-->
                     <div class="hreobannerarea__button__2">
-                      <a class="default_button_view" href="./university.php#projects__three">View Program</a>
+                      <a class="default_button_view" href="./university.php#projects__three">View Courses</a>
                       <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
                     </div>
                   </div>
@@ -920,23 +1209,23 @@
                             </div> -->
                   </div>
                   <div class="gridarea__content">
-                    <div class="gridarea__heading">
+                    <!--<div class="gridarea__heading">
                       <h3>
                         <a href="#">Foundation course to under stand about softwere</a>
                       </h3>
                     </div>
                     <div class="gridarea__list">
                       <ul>
-                        <li><i class="icofont-book-alt"></i> 23 Lesson</li>
-                        <li><i class="icofont-clock-time"></i> 1 hr 30 min</li>
+                        <li><i class="icofont-book-alt"></i> 2 Years</li>
+                        <li><i class="icofont-clock-time"></i> Loan Available</li>
                         <li>
                       <i class="icofont-clock-time"></i> Req. Graduation (Min.
                       50%)
                     </li>
                       </ul>
-                    </div>
+                    </div>-->
                     <div class="hreobannerarea__button__2">
-                      <a class="default_button_view" href="./university.php#projects__four">View Program</a>
+                      <a class="default_button_view" href="./university.php#projects__four">View Courses</a>
                       <a class="default__button hreobannerarea__button__3 open-popup">Enroll Now</a>
                     </div>
                   </div>
@@ -1383,7 +1672,7 @@
               <a class="best__categories__link" href="#">
                 <div class="best__categories__info">
                   <h3 class="best__categories__name">Accounting & Finance</h3>
-                  <span class="best__categories__more">10 Courses</span>
+                  <span class="best__categories__more">In Demand</span>
                 </div>
                 <img src="@/assets/images/a&f.png" alt="" />
               </a>
@@ -1397,7 +1686,7 @@
               <a class="best__categories__link" href="#">
                 <div class="best__categories__info">
                   <h3 class="best__categories__name">Marketing</h3>
-                  <span class="best__categories__more">15 Courses</span>
+                  <span class="best__categories__more">Top Pick</span>
                 </div>
                 <img src="@/assets/images/market.png" alt="" />
               </a>
@@ -1413,7 +1702,7 @@
                   <h3 class="best__categories__name">
                     Data Science & Analytics
                   </h3>
-                  <span class="best__categories__more">12 Courses</span>
+                  <span class="best__categories__more">Best Seller</span>
                 </div>
                 <img src="@/assets/images/data&a.png" alt="" />
               </a>
@@ -1427,7 +1716,7 @@
               <a class="best__categories__link" href="#">
                 <div class="best__categories__info">
                   <h3 class="best__categories__name">Law</h3>
-                  <span class="best__categories__more">9 Courses</span>
+                  <span class="best__categories__more">In Demand</span>
                 </div>
                 <img src="@/assets/images/law.png" alt="" />
               </a>
@@ -1441,7 +1730,7 @@
               <a class="best__categories__link" href="#">
                 <div class="best__categories__info">
                   <h3 class="best__categories__name">Engineering & IT</h3>
-                  <span class="best__categories__more">10 Courses</span>
+                  <span class="best__categories__more">Trending</span>
                 </div>
                 <img src="@/assets/images/engineer.png" alt="" />
               </a>
@@ -1455,7 +1744,7 @@
               <a class="best__categories__link" href="#">
                 <div class="best__categories__info">
                   <h3 class="best__categories__name">Healthcare Management</h3>
-                  <span class="best__categories__more">21 Courses</span>
+                  <span class="best__categories__more">In Demand</span>
                 </div>
                 <img src="@/assets/images/health.png" alt="" />
               </a>
@@ -1471,7 +1760,7 @@
                   <h3 class="best__categories__name">
                     Logistics & Supply Chain
                   </h3>
-                  <span class="best__categories__more">10 Courses</span>
+                  <span class="best__categories__more">In Demand</span>
                 </div>
                 <img src="@/assets/images/logic.png" alt="" />
               </a>
@@ -1485,7 +1774,7 @@
               <a class="best__categories__link" href="#">
                 <div class="best__categories__info">
                   <h3 class="best__categories__name">General Management</h3>
-                  <span class="best__categories__more">16 Courses</span>
+                  <span class="best__categories__more">In Demand</span>
                 </div>
                 <img src="@/assets/images/manage.png" alt="" />
               </a>
@@ -1499,7 +1788,7 @@
               <a class="best__categories__link" href="#">
                 <div class="best__categories__info">
                   <h3 class="best__categories__name">Project Management</h3>
-                  <span class="best__categories__more">10 Courses</span>
+                  <span class="best__categories__more">Top Pick</span>
                 </div>
                 <img src="@/assets/images/project.png" alt="" />
               </a>
@@ -1513,7 +1802,7 @@
               <a class="best__categories__link" href="#">
                 <div class="best__categories__info">
                   <h3 class="best__categories__name">Systems & Operations</h3>
-                  <span class="best__categories__more">12 Courses</span>
+                  <span class="best__categories__more">Trending</span>
                 </div>
                 <img src="@/assets/images/system.png" alt="" />
               </a>
@@ -1527,7 +1816,7 @@
               <a class="best__categories__link" href="#">
                 <div class="best__categories__info">
                   <h3 class="best__categories__name">Retail Banking</h3>
-                  <span class="best__categories__more">10 Courses</span>
+                  <span class="best__categories__more">Trending</span>
                 </div>
                 <img src="@/assets/images/retail.png" alt="" />
               </a>
@@ -1543,7 +1832,7 @@
                   <h3 class="best__categories__name">
                     Human Resource Management
                   </h3>
-                  <span class="best__categories__more">8 Courses</span>
+                  <span class="best__categories__more">Top Pick</span>
                 </div>
                 <img src="@/assets/images/human.png" alt="" />
               </a>
